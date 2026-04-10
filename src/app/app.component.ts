@@ -30,7 +30,7 @@ export class AppComponent {
   movies: Array<string> = ["Inception", "Avatar", "Titanic"];
   books: Array<string> = ["Ramayana", "Mahabharata", "Gita"];
   devices: Array<string> = ["Mobile", "Laptop", "Tablet"];
-  seasons: Array<string> = ["Summer", "Winter", "Monsoon"];
+  seasons1: Array<string> = ["Summer", "Winter", "Monsoon"];
 
 
 
