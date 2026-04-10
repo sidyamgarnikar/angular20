@@ -19,4 +19,5 @@ export class AppComponent {
  languages: Array<string> = ["JavaScript", "TypeScript", "Python"];
  subjects: Array<string> = ["Math", "Science", "English"];
  days: Array<string>= ["Monday", "Tuesday", "Wednesday"];
+ days1: Array<string>= ["Monday", "Tuesday", "Wednesday"];
 }
